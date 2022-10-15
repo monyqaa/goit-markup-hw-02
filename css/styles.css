@@ -122,3 +122,33 @@ h2 {
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
 }
+
+.portfolio-buttons {
+  background: #f5f4fa;
+  border-radius: 4px;
+  width: 93px;
+  height: 38px;
+  border: 0;
+  font-family: "Roboto";
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 26px;
+}
+
+.portfolio-buttons:hover {
+  background: #2196f3;
+  color: #ffffff;
+}
+
+.project-name {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 36px;
+}
+
+.project-type {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 30px;
+  color: #757575;
+}
