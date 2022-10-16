@@ -16,7 +16,7 @@ body {
 
 .logo {
   font-family: "Raleway", sans-serif;
-  line-height: 1, 19;
+  line-height: 1.19;
   font-size: 26px;
   color: var(--main-text-color);
   text-decoration: none;
@@ -28,8 +28,7 @@ body {
 
 .nav-link {
   font-weight: 500;
-  font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   text-decoration: none;
   color: var(--main-text-color);
 }
@@ -40,8 +39,7 @@ body {
 
 .header-contact {
   font-weight: 500;
-  font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
   color: var(--paragrapgh-color);
   text-decoration: none;
 }
@@ -53,7 +51,7 @@ body {
 h1 {
   font-weight: 900;
   font-size: 44px;
-  line-height: 1, 3636;
+  line-height: 1.3636;
 }
 
 .dark-mode {
@@ -71,25 +69,24 @@ h1 {
   border: 0;
   font-weight: 700;
   font-size: 16px;
-  line-height: 1, 875;
+  line-height: 1.875;
 }
 
 .heading-lorem {
   font-weight: 700;
   font-size: 14px;
-  line-height: 1, 14;
+  line-height: 1.14;
 }
 
 .lorem-text {
-  font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   color: var(--paragrapgh-color);
 }
 
 h2 {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1, 166;
+  line-height: 1.166;
   color: var(--main-text-color);
 }
 
@@ -100,26 +97,25 @@ h2 {
 .full-name {
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 1875;
+  line-height: 1.1875;
 }
 
 .profession {
   font-size: 16px;
-  line-height: 1, 1875;
+  line-height: 1.1875;
   color: var(--paragrapgh-color);
 }
 
 .logo-footer {
   font-family: "Raleway", sans-serif;
-  line-height: 1, 19;
+  line-height: 1.19;
   font-size: 26px;
   color: var(--second-type-color);
   text-decoration: none;
 }
 
 .address {
-  font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   color: var(--second-type-color);
   text-decoration: none;
   font-style: normal;
@@ -127,8 +123,7 @@ h2 {
 
 .footer-contact {
   font-style: normal;
-  font-size: 14px;
-  line-height: 24px;
+  line-height: 1.71;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
 }
@@ -146,7 +141,7 @@ h2 {
   font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
-  line-height: 1, 625;
+  line-height: 1.625;
 }
 
 .portfolio-button:hover {
@@ -162,7 +157,7 @@ h2 {
 
 .project-type {
   font-size: 16px;
-  line-height: 1, 875;
+  line-height: 1.875;
   color: var(--paragrapgh-color);
 }
 
