@@ -151,7 +151,6 @@ h2 {
 }
 
 .project-type {
-  font-weight: 400;
   font-size: 16px;
   line-height: 30px;
   color: #757575;
@@ -159,4 +158,8 @@ h2 {
 
 .list-style {
   list-style: none;
+}
+
+button {
+  cursor: pointer;
 }
