@@ -16,7 +16,7 @@ body {
   color: #2196f3;
 }
 
-.navigation {
+.nav-link {
   font-weight: 500;
   font-size: 14px;
   line-height: 16px;
@@ -24,7 +24,7 @@ body {
   color: black;
 }
 
-.navigation:hover {
+.nav-link:hover {
   color: #2196f3;
 }
 
@@ -127,7 +127,7 @@ h2 {
   border: 1px solid #ececec;
 }
 
-.portfolio-buttons {
+.portfolio-button {
   background: #f5f4fa;
   border-radius: 4px;
   width: 93px;
@@ -139,7 +139,7 @@ h2 {
   line-height: 26px;
 }
 
-.portfolio-buttons:hover {
+.portfolio-button:hover {
   background: #2196f3;
   color: #ffffff;
 }
@@ -155,4 +155,8 @@ h2 {
   font-size: 16px;
   line-height: 30px;
   color: #757575;
+}
+
+.list-style {
+  list-style: none;
 }
