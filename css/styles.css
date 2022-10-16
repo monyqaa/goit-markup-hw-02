@@ -9,13 +9,14 @@
 
 body {
   font-family: "Roboto", sans-serif;
+  font-size: 14px;
   color: var(--main-text-color);
   margin: 0;
 }
 
 .logo {
   font-family: "Raleway", sans-serif;
-  line-height: 31px;
+  line-height: 1, 19;
   font-size: 26px;
   color: var(--main-text-color);
   text-decoration: none;
@@ -28,7 +29,7 @@ body {
 .nav-link {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1, 14;
   text-decoration: none;
   color: var(--main-text-color);
 }
@@ -40,7 +41,7 @@ body {
 .header-contact {
   font-weight: 500;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1, 14;
   color: var(--paragrapgh-color);
   text-decoration: none;
 }
@@ -52,7 +53,7 @@ body {
 h1 {
   font-weight: 900;
   font-size: 44px;
-  line-height: 60px;
+  line-height: 1, 3636;
 }
 
 .dark-mode {
@@ -70,13 +71,13 @@ h1 {
   border: 0;
   font-weight: 700;
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1, 875;
 }
 
 .heading-lorem {
   font-weight: 700;
   font-size: 14px;
-  line-height: 16px;
+  line-height: 1, 14;
 }
 
 .lorem-text {
@@ -88,7 +89,7 @@ h1 {
 h2 {
   font-weight: 700;
   font-size: 36px;
-  line-height: 42px;
+  line-height: 1, 166;
   color: var(--main-text-color);
 }
 
@@ -99,18 +100,18 @@ h2 {
 .full-name {
   font-weight: 500;
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1, 1875;
 }
 
 .profession {
   font-size: 16px;
-  line-height: 19px;
+  line-height: 1, 1875;
   color: var(--paragrapgh-color);
 }
 
 .logo-footer {
   font-family: "Raleway", sans-serif;
-  line-height: 31px;
+  line-height: 1, 19;
   font-size: 26px;
   color: var(--second-type-color);
   text-decoration: none;
@@ -145,7 +146,7 @@ h2 {
   font-family: "Roboto";
   font-weight: 500;
   font-size: 16px;
-  line-height: 26px;
+  line-height: 1, 625;
 }
 
 .portfolio-button:hover {
@@ -156,12 +157,12 @@ h2 {
 .project-name {
   font-weight: 700;
   font-size: 18px;
-  line-height: 36px;
+  line-height: 2;
 }
 
 .project-type {
   font-size: 16px;
-  line-height: 30px;
+  line-height: 1, 875;
   color: var(--paragrapgh-color);
 }
 
