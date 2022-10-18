@@ -84,7 +84,6 @@ h1 {
 }
 
 h2 {
-  font-weight: 700;
   font-size: 36px;
   line-height: 1.166;
   color: var(--main-text-color);
@@ -121,11 +120,19 @@ h2 {
   font-style: normal;
 }
 
+.address:hover {
+  color: var(--highlight-color);
+}
+
 .footer-contact {
   font-style: normal;
   line-height: 1.71;
   color: rgba(255, 255, 255, 0.6);
   text-decoration: none;
+}
+
+.footer-contact:hover {
+  color: var(--highlight-color);
 }
 
 .horizontal-line {
